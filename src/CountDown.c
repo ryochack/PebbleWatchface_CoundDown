@@ -35,6 +35,7 @@ static void window_load(Window *window) {
   Layer *window_layer = window_get_root_layer(window);
   GRect bounds = layer_get_bounds(window_layer);
 
+  window_set_background_color(window, (GColor)GColorOrangeARGB8);
   update_time();
 
   cd.countdown.text_layer = text_layer_create(
