@@ -2,10 +2,10 @@
   "uuid": "383d8c49-ad60-444b-9c9e-fea4dc12e964",
   "shortName": "CountDown",
   "longName": "CountDown",
-  "companyName": "MakeAwesomeHappen",
+  "companyName": "ryochack",
   "versionLabel": "1.0",
   "sdkVersion": "3",
-  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "targetPlatforms": ["basalt", "chalk"],
   "watchapp": {
     "watchface": false
   },
